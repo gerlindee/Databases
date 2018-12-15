@@ -62,4 +62,3 @@ CREATE TABLE TestRunViews (
 
 	PRIMARY KEY(TestRunID, ViewID)
 )
-
